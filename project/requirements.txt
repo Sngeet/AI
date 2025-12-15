@@ -1,0 +1,6 @@
+# No external dependencies required
+# This chatbot uses only Python standard library modules:
+# - re (regular expressions)
+# - random (random choice selection)
+# - datetime (time and date functions)
+# - typing (type hints)
